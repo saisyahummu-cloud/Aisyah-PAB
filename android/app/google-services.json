@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "395601992434",
+    "project_id": "pgerd-project",
+    "storage_bucket": "pgerd-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395601992434:android:95a9b110318787c3c5ce6b",
+        "android_client_info": {
+          "package_name": "com.example.pab_tugas_besar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395601992434-n2vkgjecpisn31cfufmko2bofisfcp56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pab_tugas_besar",
+            "certificate_hash": "ba3acb294348f6c68c103a1afd0f630fbfa7b3fc"
+          }
+        },
+        {
+          "client_id": "395601992434-upq8hv3c7qa9hhtrfmb8kmr1hltut5sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpJB0XW1BrbS01UFTEVhDtIq23dbe0W2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395601992434-upq8hv3c7qa9hhtrfmb8kmr1hltut5sh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395601992434-2ol73gecnprsi0t0j0oobtgsvj594tni.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pabTugasBesar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
